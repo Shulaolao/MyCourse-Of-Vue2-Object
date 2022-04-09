@@ -1,6 +1,6 @@
 # ebook-demo
 
-> A Vue.js project
+> 是一个从网易免费课程--快速入门web阅读器开发整理的小项目，由epubjs@0.3.71引擎、vue@2.5.2环境开发，可供参考……
 
 ## Build Setup
 
@@ -19,3 +19,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
